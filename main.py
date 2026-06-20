@@ -3,7 +3,7 @@
 # ==========================================
 
 # IMPORTACIÓN: Traemos el Controlador que creamos
-from generadorContrasenasMVC.controlador import GeneradorControlador
+from controlador import GeneradorControlador
 
 if __name__ == "__main__":
     # PUNTO DE ENTRADA: Aquí arranca oficialmente el programa
